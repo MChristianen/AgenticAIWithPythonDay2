@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+python-dotenv
+beautifulsoup4
+pandas
+openpyxl
+scikit-learn
+matplotlib
+langchain-text-splitters
+docx2txt
+PyPDFLoader
