@@ -10,4 +10,4 @@ scikit-learn
 matplotlib
 langchain-text-splitters
 docx2txt
-PyPDFLoader
+pypdf
